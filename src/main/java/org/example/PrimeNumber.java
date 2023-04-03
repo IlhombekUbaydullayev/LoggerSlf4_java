@@ -4,8 +4,6 @@ import java.util.Arrays;
 
 public class PrimeNumber {
     public int primaryNum(int n) {
-
-        
         int count=0;
         if(n<=2){
             return 0;
