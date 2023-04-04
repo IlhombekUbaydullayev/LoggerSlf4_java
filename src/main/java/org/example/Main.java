@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 
 @Slf4j
 public class Main {
-//    private static Logger logger = LoggerFactory.getLogger(Main.class);
+    //    private static Logger logger = LoggerFactory.getLogger(Main.class);
     public static void main(String[] args) {
 //        logger.info("Info logger log");
 //        logger.error("Error logger log");
